@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MarryMe</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcomeMessage">MarryMe!</string>
+    <string name="enterCode">Enter an event code.</string>
+    <string name="login">Login</string>
+    <string name="createAccount">Create an Account</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="username">Enter Username</string>
+    <string name="password">Enter Password</string>
+    <string name="welcomeBack">Welcome Back!</string>
+    <string name="corPass">Correct Password!</string>
+    <string name="incorPass">Incorrect Password. Please try again.</string>
+</resources>
